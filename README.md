@@ -109,6 +109,23 @@
 <b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
+<!--Contact Information-->
+
+<h4 align="left">
+ contact
+</h4>
+<p align="left">
+ <a href="https://www.instagram.com/typifymedia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="20" height="20" /></a>
+ <a href="https://www.linkedin.com/in/kisakye-moses-18b6b6220/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a>
+ <a href="https://twitter.com/bantu_creative" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a>
+ <a href="https://www.github.com/The-Young-Programmer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="20" height="20" /></a></p>
+
+<h5 align="center" alt=""Support Me">
+
+<a href="https://www.buymeacoffee.com/mosespace"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</h5>
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=255,165,0&height=125&section=footer&fontSize=40&fontColor=fff&animation=twinkling"/>
+
 <!--
 **mosespace/mosespace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
