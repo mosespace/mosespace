@@ -105,7 +105,7 @@
 <a href="#"/><img alt="Uncle Moses's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mosespace&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 </div>
 
-<p>
+<p align="center" >
 <b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
