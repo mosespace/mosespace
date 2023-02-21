@@ -1,4 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋-->
+
+<img width=100% title="Uncle Moses" alt="Uncle Moses" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=255,165,0&height=150&section=header&text=Uncle Moses ✌️&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=25"/>
+
 
 <!--
 **mosespace/mosespace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
