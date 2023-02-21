@@ -111,14 +111,15 @@
 
 <!--Contact Information-->
 
-<h4 align="left">
+<h4 align="center">
  contact
-</h4>
+
 <p align="left">
  <a href="https://www.instagram.com/typifymedia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="20" height="20" /></a>
  <a href="https://www.linkedin.com/in/kisakye-moses-18b6b6220/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a>
  <a href="https://twitter.com/bantu_creative" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a>
  <a href="https://www.github.com/The-Young-Programmer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="20" height="20" /></a></p>
+</h4>
 
 <h5 align="center" alt=""Support Me">
 
