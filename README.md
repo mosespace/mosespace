@@ -111,10 +111,9 @@
 
 <!--Contact Information-->
 
-<h4 align="center">
- contact
-
-<p align="left">
+<h4 align="center" alt="contact">
+ 
+<p align="center">
  <a href="https://www.instagram.com/typifymedia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="20" height="20" /></a>
  <a href="https://www.linkedin.com/in/kisakye-moses-18b6b6220/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a>
  <a href="https://twitter.com/bantu_creative" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a>
