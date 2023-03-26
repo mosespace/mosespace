@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**Welcome to the home My Code:**
+**Welcome to the home my Code:**
 
 🙋‍♀️ Who am I? - Am a person interested opensource projects and learning new skills and languages!
 
