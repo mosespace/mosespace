@@ -5,11 +5,11 @@
 
 🙋‍♀️ Who am I? - Am a person interested opensource projects and learning new skills and languages!
 
-🌈 Contribution guidelines - how can the community get involved?
+🌈 Contribution guidelines - Do you want to contribute to my projects Please kindly start them and then fork them?
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+👩‍💻 Useful resources -  My projects/repositorys have usefull resources you might want to checkout your self! I dare you to view them!
 
-🍿 Fun facts - what do you eat for breakfast?
+🍿 Fun facts - I always like being human 🫡 I enjoy jokes!😎?
 
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🧙 Remember, you can do know more about me by visiting [my website](https://unclemoses.vercel.app/)
